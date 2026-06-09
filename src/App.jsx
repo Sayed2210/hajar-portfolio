@@ -8,7 +8,7 @@ const profile = {
   email: "HajarrHassan41@gmail.com",
   phone: "01091136294",
   linkedin: "LinkedIn / hajarrhassan24",
-  experience: "6+ months",
+  experience: "1+ year",
   education: "Faculty of Law, Mansoura University — Class of 2024",
   workplace: "Tech Lab Company",
 };
